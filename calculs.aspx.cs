@@ -24,3 +24,7 @@ public partial class calculs : System.Web.UI.Page
 
     }
 }
+
+
+
+//salman
